@@ -1,0 +1,9 @@
+https://www.youtube.com/watch?v=kylplm1lR0g
+
+
+https://www.cockroachlabs.com/docs/v21.1/example-apps.html
+
+https://www.cockroachlabs.com/docs/v21.1/build-a-nodejs-app-with-cockroachdb
+
+
+https://orkhan.gitbook.io/typeorm/docs/entities#column-types-for-cockroachdb

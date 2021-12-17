@@ -1,0 +1,22 @@
+{
+   "compilerOptions": {
+      "allowSyntheticDefaultImports": true,
+      "esModuleInterop": true,
+      "lib": [
+         "DOM",
+         "es5",
+         "es6"
+      ],
+      "target": "es5",
+      "module": "commonjs",
+      "strictNullChecks": true,
+      "noImplicitThis": true,
+      "strictBindCallApply": true,
+      "noImplicitAny": false,
+      "moduleResolution": "node",
+      "outDir": "./build",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true
+   }
+}
